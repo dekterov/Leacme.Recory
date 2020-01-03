@@ -5,6 +5,7 @@
 This application features the ability to record and save a voice message using your device's microphone and play it back.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703788-db3ef480-2d93-11ea-986d-ba26d071d875.png)
 
 ## Application Compiling
 
